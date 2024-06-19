@@ -6,6 +6,7 @@ function Player(name, marker) {
     }
 
 }
+// object constructors
 
 let playerOne = new Player("prateek", "x");
 
